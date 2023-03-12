@@ -22,7 +22,5 @@ flutter:
     platforms:
       macos:
         pluginClass: FlutterMultiWindowPlugin
-      windows:
-        pluginClass: DesktopMultiWindowPlugin
       linux:
         pluginClass: DesktopMultiWindowPlugin
